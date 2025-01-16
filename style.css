@@ -10,7 +10,7 @@ body {
 header {
     background-color: #4CAF50;
     color: white;
-    padding: 10px 20px;
+    padding: 5px 10px;
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ nav {
 
 nav a {
     color: white;
-    padding: 14px 20px;
+    padding: 7px 10px;
     text-decoration: none;
     display: inline-block;
 }
@@ -32,21 +32,21 @@ nav a:hover {
 }
 
 section {
-    margin: 20px;
-    padding: 20px;
+    margin: 10px;
+    padding: 10px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 form {
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 form input, form button {
     margin: 10px 0;
-    padding: 10px;
-    width: 50%;
+    padding: 5px;
+    width: 25%;
     border: 1px solid #ccc;
     border-radius: 3px;
 }
@@ -65,18 +65,18 @@ footer {
     background-color: #4CAF50;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 50%;
 }
 
 /* Button styles */
 button {
-    padding: 12px 24px;
-    font-size: 16px;
+    padding: 6px 12px;
+    font-size: 12px;
     font-weight: bold;
-    border-radius: 6px;
+    border-radius: 5px;
     border: none;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
